@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @SergiCoder
 - 👀 I’m interested in Flutter
-- 🌱 I’m currently learning Flutter framework.
-- 💞️ I’m looking to collaborate on Flutter projects
 - 📫 How to reach me by mail at sergicoder@gmail.com
